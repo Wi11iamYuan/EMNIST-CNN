@@ -1,2 +1,2 @@
-# EMNIST-LNN
-LNN for the EMNIST dataset
+# EMNIST-CNN
+CNN for the EMNIST dataset
